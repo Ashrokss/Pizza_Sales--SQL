@@ -1,5 +1,8 @@
 # Pizza Sales Analysis
 
+![image](https://github.com/user-attachments/assets/7337b2be-c2fa-4d56-80b7-b011ff6d4939)
+
+
 ## Project Description
 
 This project provides a comprehensive analysis of pizza sales using SQL queries. The analysis includes basic, intermediate, and advanced queries to extract meaningful insights from the pizza sales database. The project covers various aspects such as total orders, revenue, most popular pizzas, distribution of orders, and more.
